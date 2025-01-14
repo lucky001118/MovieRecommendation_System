@@ -107,4 +107,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source libraries and tools used in the project.
 
 ---
-Feel free to raise issues or suggest improvements in the repository's issue tracker.
